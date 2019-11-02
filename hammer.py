@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-# -*- coding: utf-8 -*-
+# -*- coding: SyberCodeV1-*-
 
-#  DDos Attack Tool v1.0
+#  AlaKurt Hack Team
 
 
 from queue import Queue
